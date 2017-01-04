@@ -1,0 +1,26 @@
+
+.App {
+  text-align: center;
+}
+
+
+
+.header-gradient {
+  height: 60vh;
+  width: 100%;
+  background: linear-gradient(#0f124a 0%, #1b2360 16%, #515b80 42%, #758391 58%, #e5e3b0 100%);
+
+}
+
+.ground-gradient{
+  height: 25vh;
+  width: 100%;
+  background: linear-gradient(rgba(139,77,59,0.64), rgba(131,125,125,100));
+  text-align: center;
+
+}
+
+.dome-img{
+  width: 50%;
+  margin-bottom: -7%;
+}
