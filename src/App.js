@@ -4,12 +4,12 @@ import '../node_modules/chartist/dist/chartist.min.css';
 
 import Xray from './Button'
 
-import dome from './domehome.svg';
+var dome =  require('./domehome.svg');
 
-import tempimg from './temperature.svg';
-import oxygenimg from './oxygen.svg';
-import waterimg from './drop.svg';
-import electricityimg from './electricity.svg';
+var tempimg =  require( './temperature.svg');
+var oxygenimg =  require('./oxygen.svg');
+var waterimg = require('./drop.svg');
+var electricityimg =  require('./electricity.svg');
 
 import ChartistGraph from 'react-chartist';
 
